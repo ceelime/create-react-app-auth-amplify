@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <AmplifySignOut />
         <header className="App-header">
-         <img src = "https://www.noaa.gov/themes/custom/noaa/images/noaa_logo.png">
+    
         </header>
       </div>
     );
