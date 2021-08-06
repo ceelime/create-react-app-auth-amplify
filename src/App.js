@@ -14,8 +14,6 @@ class App extends Component {
         <header className="App-header">
          <img src = "https://www.noaa.gov/themes/custom/noaa/images/noaa_logo.png">
         </header>
-
-      Insert info here for s3 explorer
       </div>
     );
   }
